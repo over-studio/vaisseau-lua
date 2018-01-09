@@ -1,3 +1,4 @@
+-- vaisseau spacial
 
 Lander = {}
 Lander.x = 0
